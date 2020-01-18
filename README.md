@@ -1,3 +1,4 @@
-# CCC-Solutions
-List of CCC solutions
-here is a change
+# C++ Learning
+
+This a repository to help track what I've been learning in C++.
+
